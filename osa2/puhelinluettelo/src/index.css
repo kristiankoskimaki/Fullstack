@@ -1,0 +1,16 @@
+body {
+  background-color: honeydew;
+}
+.status {
+  color: blue;
+  background-color: beige;
+  font-size: larger;
+  width: fit-content;
+}
+
+.error {
+  color: red;
+  background-color: beige;
+  font-size: larger;
+  width: fit-content;
+}
